@@ -4,4 +4,8 @@
 - Free Delivery
 - Money-back guarantee
 - Senior citizen  
-- Friendly service  
+
+| Item | Price |
+|------|-------|
+|grapes| $1.99 |
+|apples| $0.90 |
